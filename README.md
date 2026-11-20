@@ -7,3 +7,7 @@ for this
 organization. It is abstract artwork, not a product screenshot.
 
 [Visit NDDev](https://nddev.ai/platform)
+
+Run `just check` for the public profile identity, canonical website links, tracked
+local cover and command-file formatting. It reads source only and makes no network
+requests. `just verify` runs the same complete source validation.
